@@ -14,27 +14,18 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-            <article-news>
-        <i>
-            <title>
-                light-weight watch
-            </title>
-            <type>
-                nice screen
-            </type>
-            <time>
-                15:25:22 GMT+0800 (CST)
-            </time>
-            <content>
-                watch
-            </content>
-            <href>
-                //a.oxm1.cc/img/fox.jpg
-            </href>
-            <author>
-                nice camera
-            </author>
-        </i>
-    </article-news>
+        <article-news>
+            <i>
+                <title>北京联通携手华为成功部署基于TSDN政企专线</title>
+                <type>新闻</type>
+                <time>
+                    <y>2018</y>
+                    <M>3</M>
+                    <d>12</d>
+                </time>
+                <content>&lt;h2&gt;OPENXSL概述&lt;/h2&gt;&lt;p&gt;OpenXSL 是由声罄提出的用于快速搭建web站点(WebApp)的&lt;a href=&quot;mod&quot;&gt;模块开发规范&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;近年以来，互联网行业飞速发展，目前正经历着移动浪潮的大爆发阶段。然而行业内始终没有解决的一个问题是完全的智能建站。&lt;/p&gt;&lt;p&gt;目前常见的建站工具智能水平普通较初级，很多也只是引流的入口，打着“智能建站”、“云建站”的旗号，仍是以人力建站团队的支持为主。不可否认专业的团队能满足个性化、定制化的服务，当然同时也有开发周期长，开发成本高的问题。&lt;/p&gt;&lt;p&gt;目前是一个快速发展的时代，互联网＋概念的提出，使很多传统行业也纷纷“触网”。很多的模式，很多的想法，很多的尝试，很多的摸索，需要我们能快速地满足需求，快速上线，快速运营，快速试错。绝大多数需求在技术实现上有共性的。这就呼唤业务功能模块化技术的出现。&lt;/p&gt;&lt;p&gt;OpenXSL 的提出正是顺应这种需求。&lt;/p&gt;&lt;p&gt;当然，一种规范或一种技术不是凭空就产生的。其必有它成长发展的过程。&lt;/p&gt;&lt;p&gt;这个技术的起源于声罄2013年在A公司开始研究的前后端解耦技术，经2014、2015两年的A公司内部的多个小项目验证，逐渐成型，但A公司是家大公司，新技术的运用是比较保守的，往往是牵一发而动全身，推广改动成本高。2016年声罄离开原公司，自主创业，将此技术在市场上接受检验。&lt;/p&gt;&lt;p&gt;又经两年的研发，在不少问题上都取得了进一步突破。&lt;/p&gt;&lt;p&gt;                    OpenXSL的核心理念是&lt;b&gt;拆分&lt;/b&gt;。拆分数据与表现，拆分工作流。具体说来是数据源由用户维护，而模块由开发者开发。数据能在不同的模块中使用，模块也能单独提供功能。平台定义规范，结合这两者。让各个角色各司其职。页面需求方只需要提供基础数据，就可以利用智能模板、模块做到智能建站、一键建站、快速上线！                &lt;/p&gt;&lt;a name=&quot;mod&quot;&gt;&lt;/a&gt;&lt;h3&gt;模块&lt;/h3&gt;&lt;p&gt;                    模块由开发者提供。平台对所有有兴趣开发OpenXSL模块的开发者都是开放的。原则上要求开发者具备一定的前端开发经验。开发者通过github账号登录本平台即可提供模块。模块会经“自然选择”，优秀的会逐步沉淀下来，积累口碑。平台会根据模块使用量给予开发者相应的报酬（具体方案制订中）。开发者可详见&lt;a href=&quot;mod&quot;&gt;模块开发规范&lt;/a&gt;&lt;/p&gt;&lt;a name=&quot;page&quot;&gt;&lt;/a&gt;&lt;h3&gt;页面&lt;/h3&gt;&lt;p&gt;                    平台的所有用户都可创建页面。页面的日访问PV小于100时不收取任何费用。超过这个量的，根据流量收取相应的费用。具体详见价格表。                &lt;/p&gt;&lt;p&gt;                    页面的构成单元是模块。用户可选择相应的业务及模板快速生成，也可自行手动选择模块搭建。                    详见&lt;a href=&quot;page&quot;&gt;页面构建方法&lt;/a&gt;&lt;/p&gt;&lt;a name=&quot;data&quot;&gt;&lt;/a&gt;&lt;h3&gt;数据源&lt;/h3&gt;&lt;p&gt;                   开发者在开发模块时，用到数据结构定义(XSD)， 用户在选择使用相应的模块时，需要提供必要的数据源。例如：旅游产品网站，就要提供旅游产品数据。数据源可利用平台提供的工具导入，也可以在平台编辑器中填写。                &lt;/p&gt;&lt;p&gt;                    有技术能力开发的，平台也支持http接口形式提供数据源。详见&lt;a href=&quot;api&quot;&gt;第三方数据源接入规范&lt;/a&gt;&lt;/p&gt;</content>
+                <author>声罄科技</author>
+            </i>
+        </article-news>
     </data>
 </root>
