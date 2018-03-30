@@ -1,0 +1,5 @@
+{
+  "name": "article-news-detail",
+  "apiDependencies": [{"name":"article-news"}]
+}
+
