@@ -2,7 +2,7 @@
     <xsl:template match="/root" name="wurui.article-news-detail">
         <!-- className 'J_OXMod' required  -->
         <div class="J_OXMod oxmod-article-news-detail" ox-mod="article-news-detail">
-            <xsl:variable name="detail" select="data/article-news/i[1]"/>
+            <xsl:variable name="detail" select="data/info-news/i[1]"/>
             <xsl:choose>
                 <xsl:when test="$detail">
                     <h1>
@@ -10,7 +10,9 @@
                     </h1>
 
                     <p class="time">
-                        <xsl:value-of select="$detail/type"/>&#183;
+                        <xsl:if test="$detail/sort != '' ">
+                            <xsl:value-of select="$detail/sort"/>&#183;
+                        </xsl:if>
                         <xsl:value-of select="$detail/author"/>
                         
                         &#160;<xsl:value-of select="$detail/time/y"/>-<xsl:value-of select="$detail/time/M"/>-<xsl:value-of select="$detail/time/d"/>

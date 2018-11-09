@@ -14,19 +14,26 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-        <article-news>
+        <info-news>
             <i>
-                <title>新的构建页面技术——OPENXSL，想你所想</title>
-                <type>新闻</type>
+                <title>OPENXSL概述</title>
+                <author>声罄科技</author>
                 <time>
                     <y>2018</y>
                     <M>3</M>
                     <d>12</d>
                 </time>
-                <content>&lt;h2&gt;OPENXSL概述&lt;/h2&gt;&lt;p&gt;OpenXSL 是由声罄提出的用于快速搭建web站点(WebApp)的&lt;a href=&quot;mod&quot;&gt;模块开发规范&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;近年以来，互联网行业飞速发展，目前正经历着移动浪潮的大爆发阶段。然而行业内始终没有解决的一个问题是完全的智能建站。&lt;/p&gt;&lt;p&gt;目前常见的建站工具智能水平普通较初级，很多也只是引流的入口，打着“智能建站”、“云建站”的旗号，仍是以人力建站团队的支持为主。不可否认专业的团队能满足个性化、定制化的服务，当然同时也有开发周期长，开发成本高的问题。&lt;/p&gt;&lt;p&gt;目前是一个快速发展的时代，互联网＋概念的提出，使很多传统行业也纷纷“触网”。很多的模式，很多的想法，很多的尝试，很多的摸索，需要我们能快速地满足需求，快速上线，快速运营，快速试错。绝大多数需求在技术实现上有共性的。这就呼唤业务功能模块化技术的出现。&lt;/p&gt;&lt;p&gt;     
-                </content>
-                <author>声罄科技</author>
+                <sort></sort>
+                <media>
+                    <i>
+                        <src>http://openxsl4dev.oss-cn-shanghai.aliyuncs.com/uploads/git/wurui/img/2aeew1jrqTj4xh01y2R0yu6A3ta-1000.png</src>
+                        <type>image</type>
+                    </i>
+                </media>
+                <brief>OpenXSL 是由声罄提出的用于快速搭建web站点(WebApp)的模块开发规范</brief>
+                <content>&lt;h2&gt; OPENXSL概述&lt;/h2&gt;&lt;p&gt;   OpenXSL 是由声罄提出的用于快速搭建web站点(WebApp)的&lt;a href="mod"&gt;模块开发规范&lt;/a&gt;。&lt;/p&gt;&lt;p&gt; 近年以来，互联网行业飞速发展，目前正经历着移动浪潮的大爆发阶段。然而行业内始终没有解决的一个问题是完全的智能建站。&lt;/p&gt;&lt;p&gt;    目前常见的建站工具智能水平普通较初级，很多也只是引流的入口，打着“智能建站”、“云建站”的旗号，仍是以人力建站团队的支持为主。不可否认专业的团队能满足个性化、定制化的服务，当然同时也有开发周期长，开发成本高的问题。&lt;/p&gt;&lt;p&gt;  目前是一个快速发展的时代，互联网＋概念的提出，使很多传统行业也纷纷“触网”。很多的模式，很多的想法，很多的尝试，很多的摸索，需要我们能快速地满足需求，快速上线，快速运营，快速试错。绝大多数需求在技术实现上有共性的。这就呼唤业务功能模块化技术的出现。&lt;/p&gt;&lt;p&gt; OpenXSL 的提出正是顺应这种需求。&lt;/p&gt;&lt;p&gt; &lt;br /&gt;&lt;/p&gt;</content>
+    
             </i>
-        </article-news>
+        </info-news>
     </data>
 </root>

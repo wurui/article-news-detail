@@ -1,5 +1,5 @@
 {
   "name": "article-news-detail",
-  "apiDependencies": [{"name":"article-news","selector":"_id"}]
+  "apiDependencies": [{"name":"info-news","selector":"_id"}]
 }
 
