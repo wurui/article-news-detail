@@ -17,9 +17,9 @@
                         
                         &#160;<xsl:value-of select="$detail/time/y"/>-<xsl:value-of select="$detail/time/M"/>-<xsl:value-of select="$detail/time/d"/>
                     </p>
-                    <div class="content">
+                    <oxrichtext class="content">
                         <xsl:value-of select="$detail/content" disable-output-escaping="yes"/>
-                    </div>
+                    </oxrichtext>
                 </xsl:when>
                 <xsl:otherwise>
                     <center class="nodata">暂无数据</center>
